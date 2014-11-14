@@ -1,0 +1,1 @@
+Our solutions to the S-99 problems found at http://aperiodic.net/phil/scala/s-99/

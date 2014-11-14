@@ -20,6 +20,8 @@ Session.vim
 
 # IntelliJ
 .idea/
+*.iml
+atlassian-ide-plugin.xml
 
 # Project
 project/target
@@ -29,4 +31,3 @@ target/
 .project
 .settings/*
 tmp
-
